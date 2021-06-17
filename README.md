@@ -1,0 +1,1 @@
+I'm self-taught software developer in the age of high school. I work on websites (HTML+JS+CSS+PHP+SQL) and iOS apps (Swift). I won Apple's Swift Student Challenge coding competition in 2021. I speak native Finnish and fluent English, so I also offer app translations.
