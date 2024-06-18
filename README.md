@@ -7,6 +7,7 @@ I build iOS apps and full stack web applications.
 In 2021 I won Apple's Swift Student Challenge coding competition.
 
 Main languages:<br>
-![Swift](swift.png)
+![Swift](swift.png) 
+![JavaScript](javascript.png) 
+![Rust](rust.png) 
 ![Python](python.png)
-![JavaScript](javascript.png)
